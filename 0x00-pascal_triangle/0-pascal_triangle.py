@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+"""Solves the pascal triangle Problem"""
+
+
 def pascal_triangle(n):
     """Prints pascal triangle based on value of n"""
     triangle = []
